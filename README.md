@@ -26,26 +26,26 @@ The subtitle files also follow formatting rules (such as what's in the picture) 
 
 TIP: The path of the folder can be taken from the properties of the text file itself or clicking the path box (*I mean, if you are a programmer you should know how this works*)
 
-![](https://github.com/frainmaster/Subtitle-.srt-file-editor/blob/master/2a.PNG)
+![](https://github.com/frainmaster/Subtitle-.srt-file-editor/blob/master/2.PNG)
 
 2. The program will then ask for the name of the text file. Copy and paste it. Don't forget the file extension (`.srt`)
 
 > At this point, the program will combine both file path and the name of the text file into a variable and change all the backslashes (`\`) to normal slash (`/`) because that's how reading file in python works. It will then print the whole string as a confirmation.
 
-![](https://github.com/frainmaster/Subtitle-.srt-file-editor/blob/master/4.PNG)
+![](https://github.com/frainmaster/Subtitle-.srt-file-editor/blob/master/3.PNG)
 
 3. Then, it will ask for the name of the new file. You don't have to include extension (`.srt`) as it will create a text file with extension `.srt` right away.
-![](https://github.com/frainmaster/Subtitle-.srt-file-editor/blob/master/5.PNG)
+![](https://github.com/frainmaster/Subtitle-.srt-file-editor/blob/master/4.PNG)
 
 4. Lastly, the program will ask for the amount of time user want the timer to be increased. By putting a positive number, it will make the subtitle file late by the amount of time you want; while if you put a negateive number it will make the timer early.
 > For the example, I increased the program by 1 second.
 > The amount of time you want to increase can be as small as 1 millisecond (0.001 second) since the time format is that accurate.
 
-![](https://github.com/frainmaster/Subtitle-.srt-file-editor/blob/master/6.PNG)
+![](https://github.com/frainmaster/Subtitle-.srt-file-editor/blob/master/5.PNG)
 
 5. After around 2 seconds of running (the program will print all the time frames that it changes, with the new edited time frame), the new text file will be created in the original folder.
 > Try comparing the time frame of the new file and the original file. The only part that is changed is the time frame of every subtitles.
 
-![](https://github.com/frainmaster/Subtitle-.srt-file-editor/blob/master/7.PNG)
+![](https://github.com/frainmaster/Subtitle-.srt-file-editor/blob/master/6.PNG)
 
 #
