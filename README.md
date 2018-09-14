@@ -24,7 +24,7 @@ The subtitle files also follow formatting rules (such as what's in the picture) 
 
 ![](https://github.com/frainmaster/Subtitle-.srt-file-editor/blob/master/1.PNG)
 
-TIP: The path of the folder can be taken from the properties of the text file itself or clicking the path box (*I mean, if you are a programmer you should know how this works*)
+TIP: The path of the folder can be taken from the properties of the text file itself or clicking the path box (*I mean, if you are a programmer you should know how things works*)
 
 ![](https://github.com/frainmaster/Subtitle-.srt-file-editor/blob/master/2.PNG)
 
